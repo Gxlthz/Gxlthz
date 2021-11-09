@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with people who we can learn and teach each other
-- 📫 How to reach me uelman1529@gmail.com
+- 📫 How to reach me https://t.me/Gxlthz
 
 <!---
 Gxlthz/Gxlthz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
